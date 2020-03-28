@@ -1,0 +1,16 @@
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp2.2\OnlineStoreApi.deps.json
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp2.2\OnlineStoreApi.runtimeconfig.json
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp2.2\OnlineStoreApi.runtimeconfig.dev.json
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp2.2\OnlineStoreApi.dll
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp2.2\OnlineStoreApi.csprojAssemblyReference.cache
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp2.2\OnlineStoreApi.RazorAssemblyInfo.cache
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp2.2\OnlineStoreApi.RazorAssemblyInfo.cs
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp2.2\OnlineStoreApi.AssemblyInfoInputs.cache
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp2.2\OnlineStoreApi.AssemblyInfo.cs
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp2.2\OnlineStoreApi.RazorTargetAssemblyInfo.cache
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp2.2\OnlineStoreApi.pdb
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp2.2\OnlineStoreApi.dll
+C:\Letsgo\Learning_Library\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp2.2\OnlineStoreApi.pdb

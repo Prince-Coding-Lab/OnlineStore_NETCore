@@ -1,0 +1,8 @@
+C:\Letsgo\Learning_Library\OnlineStoreApi\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Letsgo\Learning_Library\OnlineStoreApi\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Letsgo\Learning_Library\OnlineStoreApi\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Letsgo\Learning_Library\OnlineStoreApi\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Letsgo\Learning_Library\OnlineStoreApi\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Letsgo\Learning_Library\OnlineStoreApi\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Letsgo\Learning_Library\OnlineStoreApi\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Letsgo\Learning_Library\OnlineStoreApi\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
